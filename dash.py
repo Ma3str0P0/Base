@@ -1,10 +1,10 @@
 import streamlit as st
 
 # Título de la página
-st.title("Mi Dashboard")
+st.title("IA ON Suport")
 
 # Input de texto
-texto = st.text_input("Ingresa tu texto aquí")
+texto = st.text_input("Ingresa tu consulta aquí.")
 
 # Input de archivo
 archivo = st.file_uploader("Cargar archivo", type=["csv", "txt"])
