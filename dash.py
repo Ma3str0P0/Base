@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Título de la página
-st.title('Scan is :bloo[ON]')
+st.title('Scan ON')
 # Texto
 texto = """
 -
