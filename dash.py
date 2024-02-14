@@ -1,8 +1,7 @@
 import streamlit as st
 
 # Título de la página
-st.title('This is a title')
-st.title('_Streamlit_ is :blue[cool] :sunglasses:')
+st.title('_Streamlit_ is :yellow[cool] :sunglasses:')
 # Texto
 texto = """
 -
